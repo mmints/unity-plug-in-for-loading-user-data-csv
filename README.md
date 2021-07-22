@@ -8,6 +8,6 @@ This plug-in makes it possible to load the entire pose data, which is available 
 This data should then be visualized in the scene as a kind of heat map.
 
 **To Do's:**
-- [ ] Create a menu point and an Editor Plug-In for the Unity Engine
-- [ ] Load CSV data and store it in an appropriate format for later processing
-- [ ] Visualize Data Points
+- [x] Create a menu point and an Editor Plug-In for the Unity Engine
+- [x] Load CSV data and store it in an appropriate format for later processing
+- [x] Visualize Data Points
