@@ -6,3 +6,8 @@ This also allows the user's position in the room and his viewing direction to be
 
 This plug-in makes it possible to load the entire pose data, which is available as a CSV, into the Unity Editor.
 This data should then be visualized in the scene as a kind of heat map.
+
+**To Do's:**
+- [ ] Create a menu point and an Editor Plug-In for the Unity Engine
+- [ ] Load CSV data and store it in an appropriate format for later processing
+- [ ] Visualize Data Points
